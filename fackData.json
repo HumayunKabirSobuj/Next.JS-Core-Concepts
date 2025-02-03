@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productName": "EcoBook 14",
+      "category": "Laptop",
+      "brand": "GreenTech",
+      "price": 2200,
+      "image": "https://www.pcworld.com/wp-content/uploads/2025/01/bf-laptop-deals-pcw-20.jpg?resize=1024%2C682&quality=50&strip=all"
+    },
+    {
+      "id": 2,
+      "productName": "ProSwift X13",
+      "category": "Laptop",
+      "brand": "TechNova",
+      "price": 1600,
+      "image": "https://www.pcworld.com/wp-content/uploads/2025/01/bf-laptop-deals-pcw-20.jpg?resize=1024%2C682&quality=50&strip=all"
+    },
+    {
+      "id": 3,
+      "productName": "ZenLite 15",
+      "category": "Laptop",
+      "brand": "LightComputing",
+      "price": 1100,
+      "image": "https://www.pcworld.com/wp-content/uploads/2025/01/bf-laptop-deals-pcw-20.jpg?resize=1024%2C682&quality=50&strip=all"
+    },
+    {
+      "id": 4,
+      "productName": "UltraBook S7",
+      "category": "Laptop",
+      "brand": "PrimeTech",
+      "price": 1800,
+      "image": "https://www.pcworld.com/wp-content/uploads/2025/01/bf-laptop-deals-pcw-20.jpg?resize=1024%2C682&quality=50&strip=all"
+    },
+    {
+      "id": 5,
+      "productName": "FlexBook 360",
+      "category": "Laptop",
+      "brand": "FlexTech",
+      "price": 1400,
+      "image": "https://www.pcworld.com/wp-content/uploads/2025/01/bf-laptop-deals-pcw-20.jpg?resize=1024%2C682&quality=50&strip=all"
+    },
+    {
+      "id": 6,
+      "productName": "VisionBook X2",
+      "category": "Laptop",
+      "brand": "Visionary",
+      "price": 2000,
+      "image": "https://www.pcworld.com/wp-content/uploads/2025/01/bf-laptop-deals-pcw-20.jpg?resize=1024%2C682&quality=50&strip=all"
+    }
+  ]
+}

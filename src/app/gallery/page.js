@@ -1,11 +1,10 @@
 import Image from "next/image";
 import nextImage from "@/assets/book.jpg";
-import Navbar from "@/components/Navbar";
+import Navbar from "@/components/shared/Navbar";
 
 const GalleryPage = () => {
   return (
     <div className="text-center">
-      <Navbar/>
       <h1>Regular image tag</h1>
       <img
         className=" rounded-3xl mx-auto"

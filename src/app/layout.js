@@ -1,6 +1,7 @@
 import { Roboto } from "next/font/google";
 
 import "./globals.css";
+import Navbar from "@/components/shared/Navbar";
 
 const roboto = Roboto({
   weight: "400",
@@ -15,7 +16,11 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <body className={roboto.className}>{children}</body>
+      <body className={roboto.className}>
+        <Navbar />
+        <div className="min-h-screen">{children}</div>
+        <footer className="text-center text-xl bg-blue-300 py-2">This is footer</footer>
+      </body>
     </html>
   );
 }
